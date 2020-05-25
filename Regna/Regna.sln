@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Regna", ".", "{EDC56794-9D1C-4E69-8BB9-90050CDD21A9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61210"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\מטלות שנה ב\סמסטר א\html\Regna\Regna\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61210\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61210"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\מטלות שנה ב\סמסטר א\html\Regna\Regna\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61210\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61210"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC56794-9D1C-4E69-8BB9-90050CDD21A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC56794-9D1C-4E69-8BB9-90050CDD21A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD00F06-BB08-4EAF-A0AD-E75C00A9B23F}
+	EndGlobalSection
+EndGlobal
