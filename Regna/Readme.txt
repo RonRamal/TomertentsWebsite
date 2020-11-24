@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Thanks for looking at our own site.
+Created by Ron Ramal & Barak Moshe.
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is a website we created for TomerTents business which offers rental services.
+ 
